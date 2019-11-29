@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/ErikMoxley/portfolio"
   },
   "keywords": [],
   "author": "Erik Moxley",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ErikMoxley/portfolio"
   },
   "homepage": "https://github.com/ErikMoxley/portfolio#readme",
   "devDependencies": {
