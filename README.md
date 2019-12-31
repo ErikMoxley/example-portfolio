@@ -1,1 +1,1 @@
-First Portfolio Site Made Through ZTM.
+First Portfolio Site Made Through ZTM. Used just it's template.
